@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5603AQEiToDRQjL_JQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722025018626?e=1740614400&v=beta&t=k4jQhqjyJ1LeuZokkj3NykUgMHgyRRUk54sCx76g5mc"  />
-</div>
-
-###
-
 <p align="left">My name is Rahul Kumar Manna and I'm  from  West Bengal .</p>
 
 ###
