@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2021<br>📚 I'm currently learning <br>🎯 Goals:  job<br>🎲 Fun fact:  sleeping too much</p>
+<p align="left">✨ Since 2021, I've been crafting bugs with love and care <br>📚   Learning, growing, and pushing boundaries 🚀<br>🎯 Goals: Landing my dream job and making a mark in the tech universe 🚀<br>🎲 Fun fact:   I'm a professional napper, always recharging for the next coding adventure 😴</p>
 
 ###
 
