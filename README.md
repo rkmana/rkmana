@@ -1,53 +1,45 @@
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJuMnpweTJ0djhvZm5lajh6OG14MXRrd2lobGZmaHV5M2c0a3p1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XHELJ878xvgVHeNvJv/giphy.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rahul%20Kumar%20Manna&fontSize=40&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=60" />
 </div>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Java+Developer;Backend+Engineering+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
 
-<h1 align="left">Hello World 👋</h1>
+---
 
-###
+### 👨‍💻 About Me
 
-<p align="left">My name is Rahul Kumar Manna and I'm  from  India .</p>
+I'm a Java Developer who enjoys crafting clean, scalable, and maintainable backend systems. My core interest lies in backend architecture, system design, and writing efficient code that solves real-world problems.
 
-###
+- 💼 Focused on Java, Spring Boot, and REST APIs  
+- 🔧 Building reliable and high-performance server-side applications  
+- 🧠 Continuously learning and growing in the field of software engineering  
+- 🌐 Interested in distributed systems, cloud technologies, and database optimization  
 
-<h2 align="left">About me</h2>
+---
 
-###
+### ⚙️ Tech Stack & Tools
 
-<p align="left">✨ Since 2021, I've been crafting bugs with love and care <br>📚   Learning, growing, and pushing boundaries 🚀<br>🎯 Goals: Landing my dream job and making a mark in the tech universe 🚀<br>🎲 Fun fact:   I'm a professional napper, always recharging for the next coding adventure 😴</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+</div>
 
-###
+---
+
+### 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rahul-kumar-manna/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rkmanna.me@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" />
   </a>
 </div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
