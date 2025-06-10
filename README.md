@@ -4,6 +4,12 @@
 
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?style=for-the-badge&logo=github" alt="GitHub Developer Program Badge"/>
+</p>
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+Java+Developer;Backend+Engineering+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
