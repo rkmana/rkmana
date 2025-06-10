@@ -3,11 +3,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-blue?style=for-the-badge&logo=github" alt="GitHub Developer Program Badge"/>
-</p>
-
-
 ---
 
 ### 👨‍💻 About Me
