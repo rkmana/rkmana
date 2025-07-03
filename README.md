@@ -39,7 +39,7 @@ I'm a Java Developer who enjoys crafting clean, scalable, and maintainable backe
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rahul-kumar-manna/" target="_blank">
+  <a href="https://www.linkedin.com/in/r-manna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   &nbsp;
