@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E40AF,7C3AED&height=180&section=header&text=Rahul%20Kumar%20Manna&fontSize=40&fontAlignY=38&fontColor=FFFFFF&desc=Software%20Developer&descAlignY=60&descSize=18&descColor=FFFFFF" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9&height=180&section=header&text=Rahul%20Kumar%20Manna&fontSize=40&fontAlignY=38&fontColor=FFFFFF&desc=Software%20Developer&descAlignY=60&descSize=18&descColor=FFFFFF" />
+
 </div>
 
 <div align="center">
